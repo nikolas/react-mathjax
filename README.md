@@ -33,7 +33,7 @@ module.exports = () => {
                   MathJax.Hub.Typeset()
                 );
             } }
-            script="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=AM_HTMLorMML"
+            script="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=AM_HTMLorMML"
             options={ {
                 asciimath2jax: {
                      useMathMLspacing: true,
@@ -133,7 +133,7 @@ module.exports = () => {
 
 #### `script` (String)
 - Loads specified link with MathJax library.
-- Default: `https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML`
+- Default: `https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML`
 
 #### `input` (String)
 - Sets type of input.
