@@ -33,7 +33,7 @@ module.exports = () => {
                   MathJax.Hub.Typeset()
                 );
             } }
-            script="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=AM_HTMLorMML"
+            script="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=AM_HTMLorMML"
             options={ {
                 asciimath2jax: {
                      useMathMLspacing: true,
