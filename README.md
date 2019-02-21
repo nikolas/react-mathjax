@@ -133,7 +133,7 @@ module.exports = () => {
 
 #### `script` (String)
 - Loads specified link with MathJax library.
-- Default: `https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML`
+- Default: `https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML`
 
 #### `input` (String)
 - Sets type of input.
